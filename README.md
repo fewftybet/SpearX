@@ -1,4 +1,7 @@
-﻿# SpearX - Windows 平台工具管理器
+# SpearX - Windows 平台工具管理器
+
+> **一款专为 Windows 10/11 打造的安全研究 / 渗透测试 / 开发工具集成管理器**  
+> 智能分类 · 一键启动 · Java 多版本 · 管理员权限 · 基于 Wails+Go+Vue3 构建
 
 <div align="center">
 
@@ -9,9 +12,10 @@
 [![Vue 3](https://img.shields.io/badge/Vue.js-3.0+-4FC08D?style=flat&logo=vue.js)](https://vuejs.org/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=flat&logo=windows)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/fewftybet/SpearX?style=flat&logo=github)](https://github.com/fewftybet/SpearX/releases)
+[![Stars](https://img.shields.io/github/stars/fewftybet/SpearX?style=flat&logo=github)](https://github.com/fewftybet/SpearX/stargazers)
 
-**一款专为 Windows 平台打造的现代化工具管理器，为开发者和安全研究人员打造**  
-**集成多种工具类型，支持智能分类管理和一键执行**
+**🔍 关键词**：Windows 工具管理器 · 渗透测试工具箱 · 安全研究工具 · BurpSuite 启动器 · Nmap 启动器 · Java 工具集成 · 渗透测试 GUI · Hack Tools · Pentest Toolkit Windows
 
 **Created by Diger_Young** ⚡
 
